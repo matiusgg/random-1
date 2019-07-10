@@ -15,7 +15,8 @@
     $clase = array("toni", "jorge", "julia", "jose", "mateo", "jaume", "petro", "alejandro", "fran", "adrian", "lolo", "cristian", "alexis", "david", "jordi", "luis");
 
     
-$persona1 = 
+    $random = rand(0,15);
+echo($persona1);
 
     echo "<b>Clase:</b> ";
 
@@ -30,7 +31,7 @@ $persona1 =
     
 
     
-    print_r($random1);
+    // print_r($random1);
     
 
     
@@ -92,7 +93,7 @@ $persona1 =
 
 
 
-$random = rand(0,15);
+
 
 
 
