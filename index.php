@@ -11,6 +11,8 @@
     <title>Document</title>
 </head>
 <body>
+
+<h1>Comprobacion</h1>
     <?php
     $clase = array("toni", "jorge", "julia", "jose", "mateo", "jaume", "petro", "alejandro", "fran", "adrian", "lolo", "cristian", "alexis", "david", "jordi", "luis");
 
